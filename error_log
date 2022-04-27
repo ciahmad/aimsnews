@@ -1,0 +1,29 @@
+[18-Oct-2021 11:36:18 UTC] PHP Fatal error:  Cannot declare class qrstr, because the name is already in use in /home/o5qbolf0zoyk/school.1pixelcoding.com/phpqrcode/qrconst.php on line 50
+[18-Oct-2021 11:36:20 UTC] PHP Fatal error:  Cannot declare class qrstr, because the name is already in use in /home/o5qbolf0zoyk/school.1pixelcoding.com/phpqrcode/qrconst.php on line 50
+[18-Oct-2021 12:16:52 UTC] PHP Fatal error:  Cannot declare class qrstr, because the name is already in use in /home/o5qbolf0zoyk/school.1pixelcoding.com/application/views/admin/staff/qrconst.php on line 50
+[18-Oct-2021 12:16:54 UTC] PHP Fatal error:  Cannot declare class qrstr, because the name is already in use in /home/o5qbolf0zoyk/school.1pixelcoding.com/application/views/admin/staff/qrconst.php on line 50
+[18-Oct-2021 12:17:18 UTC] PHP Fatal error:  Cannot declare class qrstr, because the name is already in use in /home/o5qbolf0zoyk/school.1pixelcoding.com/application/views/admin/staff/qrconst.php on line 50
+[26-Oct-2021 21:10:31 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:10:57 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:10:58 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:10:59 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:11:13 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:11:15 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:11:15 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:11:27 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:12:17 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:12:20 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:12:20 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:12:21 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:12:33 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:12:34 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:13:32 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:13:34 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:13:34 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:13:34 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:13:43 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[26-Oct-2021 21:14:02 UTC] PHP Fatal error:  Cannot redeclare Feegroup_model::get_classes() in /home/o5qbolf0zoyk/aims.1pixelcoding.com/application/models/Feegroup_model.php on line 49
+[23-Feb-2022 05:26:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16777224 bytes) in /home/cgmfj5kegoej/aims.unaz.net/system/database/DB_driver.php on line 658
+[23-Feb-2022 05:40:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/cgmfj5kegoej/aims.unaz.net/system/core/Exceptions.php on line 105
+[23-Feb-2022 07:38:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16777224 bytes) in /home/cgmfj5kegoej/aims.unaz.net/system/database/DB_driver.php on line 658
+[23-Feb-2022 07:39:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16777224 bytes) in /home/cgmfj5kegoej/aims.unaz.net/system/database/DB_driver.php on line 658

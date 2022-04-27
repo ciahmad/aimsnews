@@ -1,0 +1,29 @@
+<?php
+
+if (!defined('BASEPATH'))
+    exit('No direct script access allowed');
+
+/**
+ * 
+ */
+class Generatecertificate_model extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+        $this->current_session = $this->setting_model->getCurrentSession();
+    }
+
+    public function getcertificatebyid($certificate, $admin_id=null) {
+        $this->db->select('*');
+        $this->db->from('certificates');
+        $this->db->where('id', $certificate);
+        if($admin_id !=nul){
+            $this->db->where('admin_id', $admin_id);
+        }
+        $query = $this->db->get();
+        return $query->result();
+    }
+
+}
+
+?>
