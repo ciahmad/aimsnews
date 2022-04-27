@@ -5,6 +5,8 @@ if (!defined('BASEPATH'))
 
 class Banner extends Admin_Controller {
 
+//Comment section
+
     function __construct() {
         parent::__construct();
         $this->load->config('ci-blog');
